@@ -1,0 +1,4 @@
+Ticket  item :
+
+cinema_ticket    = { name = 'cinema_ticket',        label = 'Cinema Ticket',          weight = 100, type = 'item', image = 'cinema_ticket.png',          unique = false, useable = true, shouldClose = true, description = 'Used to watch Cinema' },
+    
